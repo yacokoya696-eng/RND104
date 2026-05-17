@@ -1,6 +1,5 @@
 # RND104
 
-# RND102
 
 Whitelabel Error Page
 
